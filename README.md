@@ -15,4 +15,5 @@ Ferramentas utilizadas:
 
 	Figma, HTML, CSS, Github, Netifly e QRCODE Generator.
 	
-	Link do cardápio: https://superlative-empanada-6e9515.netlify.app/
+
+Link do cardápio: https://superlative-empanada-6e9515.netlify.app/
