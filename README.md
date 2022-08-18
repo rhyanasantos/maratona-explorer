@@ -1,8 +1,8 @@
-<h1> Objetivo? <h1/>
+# Objetivo
 
 	Criar um cardápio online que pode ser acessado via QRCODE.
 
-Quais os passos até a entrega do projeto?
+# Quais os passos até a entrega do projeto?
 
 	1. Estruturar a página com o resultado final pelo Figma.
 	2. Criar o código em HTML.
@@ -11,9 +11,13 @@ Quais os passos até a entrega do projeto?
 	5. Criar um dóminio para a página web.
 	6. Gerar o QRCODE para acesso dos usuários.
 
-Ferramentas utilizadas: 
+# Ferramentas utilizadas: 
 
 	Figma, HTML, CSS, Github, Netifly e QRCODE Generator.
 	
 
 Link do cardápio: https://superlative-empanada-6e9515.netlify.app/
+
+# QRCode
+ <img align="center" alt="Js" height="400" width="400" src="https://github.com/rhyanasantos/maratona-explorer/blob/main/frame%20(4)%201.png?raw=true">
+
